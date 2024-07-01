@@ -1,5 +1,5 @@
 # Today-s-Focus
-Thia is a DSA based project.
+ThiS is a DSA based project.
 
 **PROBLEM STATEMENT:**
 
