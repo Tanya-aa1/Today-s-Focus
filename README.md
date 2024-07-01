@@ -1,5 +1,5 @@
 # Today-s-Focus
-ThiS is a DSA based project.
+This is a DSA based project.
 
 **PROBLEM STATEMENT:**
 
